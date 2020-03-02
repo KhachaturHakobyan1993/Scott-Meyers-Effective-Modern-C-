@@ -1,0 +1,3 @@
+/Users/khachaturhakobyan/Desktop/Item6_11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/khachaturhakobyan/Desktop/Item6_11/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/khachaturhakobyan/Desktop/Item6_11/cmake-build-debug/CMakeFiles/Item6_11.dir

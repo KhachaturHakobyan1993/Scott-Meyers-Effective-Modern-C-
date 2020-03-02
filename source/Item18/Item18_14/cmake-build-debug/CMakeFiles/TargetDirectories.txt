@@ -1,0 +1,3 @@
+/Users/khachaturhakobyan/Desktop/C++ Scott  Meyers - Code/Item18_14/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/khachaturhakobyan/Desktop/C++ Scott  Meyers - Code/Item18_14/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/khachaturhakobyan/Desktop/C++ Scott  Meyers - Code/Item18_14/cmake-build-debug/CMakeFiles/Item18_14.dir

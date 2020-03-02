@@ -1,2 +1,2 @@
-# Scott-Meyers-Effective-Modern-C-
+# Scott-Meyers-Effective-Modern-C++
 Study via demo solutions.

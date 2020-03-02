@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/khachaturhakobyan/Desktop/C++ Scott  Meyers - Code/Item22_11/Widget.h
+memory
+-
+
+/Users/khachaturhakobyan/Desktop/C++ Scott  Meyers - Code/Item22_11/main.cpp
+iostream
+-
+Widget.h
+/Users/khachaturhakobyan/Desktop/C++ Scott  Meyers - Code/Item22_11/Widget.h
+

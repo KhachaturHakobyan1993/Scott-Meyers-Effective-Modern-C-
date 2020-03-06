@@ -46,7 +46,7 @@ void callFunctionWithTime(void(*function)()) {
 
 int main() {
 
-    callFunctionWithTime( { cout<<""; } );
+    callFunctionWithTime(sayHello);
 
 
     return 0;

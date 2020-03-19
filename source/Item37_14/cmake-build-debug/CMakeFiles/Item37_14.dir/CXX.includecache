@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/khachaturhakobyan/Desktop/Scott-Meyers-Effective-Modern-C-/source/Item37_14/main.cpp
+iostream
+-
+thread
+-
+vector
+-
+
